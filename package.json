@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "luxon": "^3.5.0"
+  },
+  "name": "cmd-alarm-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alarmClock.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
